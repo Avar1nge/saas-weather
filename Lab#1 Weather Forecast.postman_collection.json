@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "7a203a31-90b7-4e78-8375-ae668d61dac6",
+		"name": "Lab#1 Weather Forecast",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16783415"
+	},
+	"item": [
+		{
+			"name": "London, Past Date",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Kyiv, Future Date",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Lviv, Current Date",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
